@@ -1,5 +1,3 @@
-IT Support knowledge base (Modern helpdesk scenarios)
-
 Hello and welcome to my project!
 
 In this project, I will be demonstrating practical skills relevant to a IT support / Helpdesk role. 
