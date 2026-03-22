@@ -1,6 +1,6 @@
 Hello and welcome to my project!
 
-In this project, I will be demonstrating practical skills relevant to a IT support / Helpdesk role. 
+In this project, I will be demonstrating practical skills relevant to an IT support / Helpdesk role. 
 
 The project will feature a knowledge base of typical IT Support issues that users face in real-world environments.
 
