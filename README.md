@@ -12,6 +12,7 @@ The knowledge base will cover essential IT Support domains:
 - Microsoft 365 Support
 - Security
 - AI Tools Support
+- Active Directory Support
 
 The methodology will include:
 
